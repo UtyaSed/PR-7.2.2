@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 7.2.2\PR 7.2.2\Source.cpp(72): warning C4715: 'MinRow': not all control paths return a value
+D:\University\Algoritmizaciya and programyvanya\PR 7.2.2\PR 7.2.2\Source.cpp(56): warning C4715: 'MaxofMin': not all control paths return a value
+  PR 7.2.2.vcxproj -> D:\University\Algoritmizaciya and programyvanya\PR 7.2.2\x64\Debug\PR 7.2.2.exe
